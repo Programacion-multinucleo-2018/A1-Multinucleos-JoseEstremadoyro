@@ -68,7 +68,7 @@ int main(int argc, char ** argv){
     // We run the Tests and the results will be printed
     timedTest(1000);
     timedTest(2000);
-    timedTest(4000);
+    // timedTest(4000);
     return 0;
 
 }
